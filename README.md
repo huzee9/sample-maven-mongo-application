@@ -1,0 +1,1 @@
+# sample-maven-mongo-application
